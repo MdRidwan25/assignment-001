@@ -1,0 +1,39 @@
+nav ul{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav li{
+
+list-style: none;
+margin-right: 10px;
+
+}
+
+nav li a{
+
+text-decoration: none;
+
+}
+
+nav li a strong{
+
+    font-size: 30px;
+font-family: sans-serif;
+color: #4E47FF;
+}
+
+nav li a button{
+
+height:48px;
+
+width: 132px;
+background-color: #4E47FF;
+color: #FFFFFF;
+font-size: 16px;
+font-family:sans-serif;
+border-radius: 10px;
+}
+
